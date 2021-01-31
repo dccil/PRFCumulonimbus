@@ -46,7 +46,7 @@
 #### 【因时间片断裂，中间数据发生丢失，经刘江月与何叙全力尝试恢复无果。】
 
 #### 第三卷 未知的新磁盘卷
-- [0x??B2 Hello world, Sargin.][dccifile/0xwwB2]
+- [0x??B2 Hello world, Sargin.](dccifile/0xwwB2)
 
 ### 番外篇
 - [0xCA0E0001 断点（一）](dccifile/0xCA0E0001)
